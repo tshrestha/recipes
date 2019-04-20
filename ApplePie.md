@@ -5,7 +5,7 @@ which yields a very nice texture.
 
 ## The Crust
 
-|                    |                                                                              |
+| Amount             | Ingredient                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------|
 |**2 ½ cups**        | Bob's Red Mill Pastry flour. All purpose flour can be substituted.           |
 |**2 ½ sticks**      | Unsalted butter. Sliced into ¼ inch cubes and then _chilled_ in the freezer. |
@@ -31,7 +31,7 @@ Ideally, you can refrigerate overnight or up to twelve hours.
 
 ## The Filling
 
-|                    |                                                |
+| Amount             | Ingredient                                     |
 |:-------------------|:-----------------------------------------------|
 | **3 of each**      | Honey Crisp, Braeburn, and Grannysmith apples. |
 | **½ cup**          | Sugar.                                         |
