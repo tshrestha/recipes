@@ -39,3 +39,28 @@ Ideally, you can refrigerate overnight or up to twelve hours.
 | **¼ tea spoon**    | Ground nutmeg                                  |
 | **¼ tea spoon**    | Fine kosher/sea salt                           |
 | **2 table spoons** | Corn starch                                    |
+
+### Steps
+
+Fill a large pot with water, up to the halfway mark, and set it to boil. While boiling,
+peel then slice the apples into ¼ inch thin slices.
+
+Once the water is at a rolling boil, carefully add the apples to the pot, and turn off
+the heat. Stir the pot to ensure the apples are properly distributed, then let it
+sit for 10 minutes.
+
+Drain the apples into a colander, then let it cool and dry for about an hour. Once the
+apples are sufficiently cool, transfer them to a large bowl.
+
+Add the **sugar**, **cinnamon**, **nutmeg**, **salt**, and **corn starch** to the apples.
+Mix until the apple slices are properly coated. Let the mixture rest for at least an hour
+to let the juices extract from the apple slices.
+
+Pour the extracted juice into a saucepan and add a ¼ stick of unsalted butter. Reduce over
+medium heat, stirring continuously until thickened. Once it is thick and syrupy, remove it
+from the heat and pour it over the apples and mix.
+
+## The Bottom Crust
+
+Using a rolling pin, roll the pie crust disc until it's about 11 inches in diameter. Then
+roll it over a 9-inch pie dish and seat it properly. Put it back in the fridge.
