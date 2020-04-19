@@ -64,7 +64,7 @@ thirty minutes. Then, once every hour until the bulk rise is complete.
 #### Stretch and fold technique
 
 1. Wet your hand that you will touch the dough with so that it doesn't stick to you.
-2. Slide your hand under the dough, then grab and stretch it up. Once it feels like it won't stetch
+2. Slide your hand under the dough, then grab and stretch it up. Once it feels like it won't stretch
    anymore fold it down.
 3. Give the bowl a quarter turn and repeat 3 more times.
 4. Repeat this step every 15 minutes for the first hour, every 30 minutes the second hour, and once
