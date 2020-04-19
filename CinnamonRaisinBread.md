@@ -29,13 +29,13 @@ Percentages are relative to the amount of total flour.
 
 ### Autolyse
 
-This steps helps create the gluten structure in the dough.
+This steps helps get a head start on creating the gluten structure in the dough.
 
 1. Mix the **whole wheat flour** and the **bread flour** in a large bowl.
 2. Add **750 grams** of luke warm water (the other 50 grams is
    saved for mixing in the salt later).
 3. Mix until you have a shaggy dough and there is no dry flour left.
-4. Cover the bowl and let the dough rest for at least 30 minutes.
+4. Cover the bowl and let the dough rest for at least 30 - 60 minutes. Longer is better.
 
 ### Starter
 
