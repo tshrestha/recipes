@@ -74,7 +74,7 @@ thirty minutes. Then, once every hour until the bulk rise is complete.
 
 1. Prepare a working surface. Dump the dough on the surface so that that part that was on the bottom of
    the bowl is now on top.
-2. Split the dough evenly into two pieces. Each piece should weight about 1110 grams.
+2. Split the dough evenly into two pieces. Each piece should weigh about 1110 grams.
 2. Since it is way to difficult for me to explain dough shaping, I'm going to share a video link instead:
     * [Watch this video](https://www.youtube.com/watch?v=vEG1BjWroT0) to learn how to shape dough.
 3. Place the shaped dough in a banneton or a bread pan.
